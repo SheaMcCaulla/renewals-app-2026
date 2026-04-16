@@ -35,3 +35,4 @@ The app calls the Anthropic API to create Gmail drafts. This works when accessed
 
 ## Coming: HubSpot integration
 HubSpot MCP is available in your Claude connectors. Once connected, the DATA array can be replaced with a live query pulling stage, close date, and contract value directly from your CRM.
+Change to force deploy to vercel
